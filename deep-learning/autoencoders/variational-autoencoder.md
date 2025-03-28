@@ -79,13 +79,7 @@ $$
 where $k$ is the dimensionality of the distribution. As we have $P(z)=\mathcal N(0, 1)$, we have
 
 $$
-\mathcal D\left[ \mathcal N(\mu_0, \Sigma_0)\| \mathcal N(\mu_1,\Sigma_1) \right] 
-= 
-\frac{1}{2} \left( 
-\text{tr}\left( \Sigma(X)\right) 
-+ (\mu(X))^\intercal (\mu(X)) 
-- k 
-- \log \det(\Sigma(X))\right)
+\mathcal D\left[ \mathcal N(\mu_0, \Sigma_0)\| \mathcal N(\mu_1,\Sigma_1) \right] = \frac{1}{2} \left( \text{tr}\left( \Sigma(X)\right) + (\mu(X))^\intercal (\mu(X)) - k - \log \det(\Sigma(X))\right)
 $$
 
 On the right hand side, it might be costly to use sampling to estimate the first term. Therefore, as is standard in stochastic gradient descent, we take one sample of $z$ and treat $\log P(X\mid z)$ for that $z$ as an approximation of $\mathbb E_{z\sim Q}\left[ \log P(X\mid z) \right]$. The equation we want to optimise is:
