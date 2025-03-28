@@ -1,6 +1,6 @@
 1. Machine Learning
    1. Supervised Learning
-      - [Regression](./machine-learning/supervised-learning/regression)
+      - Regression
         - [Linear Regression](./machine-learning/supervised-learning/regression/linear-regression.ipynb)
         - [Logistic Regression](./machine-learning/supervised-learning/regression/logistic-regression.ipynb)
         - [Regularisation]()
@@ -33,5 +33,5 @@
       - [Diffusion]()
    2. Autoencoders
       - [Sparse Autoencoder]()
-      - [Variational Autoencoder]()
+      - [Variational Autoencoder](./deep-learning/autoencoders/variational-autoencoder.md)
       - [Convolutional Autoencoder]()
