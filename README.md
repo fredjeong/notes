@@ -6,9 +6,9 @@
         - [Regularisation]()
         - [Gaussian Process Regression]()
       - [Naive Bayes]()
-      - [Support Vector Machines]()
+      - [Support Vector Machines](./machine-learning/supervised-learning/support-vector-machines.ipynb)
       - [k-Nearest Neighbour]()
-      - [Decision Tree]()
+      - [Decision Tree](./machine-learning/supervised-learning/decision-tree.ipynb)
       - Ensemble
         - [Bagging]()
         - [Boosting]()
