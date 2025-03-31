@@ -34,4 +34,4 @@
    2. Autoencoders
       - [Sparse Autoencoder]()
       - [Variational Autoencoder](./deep-learning/autoencoders/variational-autoencoder.md)
-      - [Convolutional Autoencoder]()
+      - [Denoising Autoencoder]()
