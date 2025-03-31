@@ -32,6 +32,6 @@
       - [Transformer]()
       - [Diffusion]()
    2. Autoencoders
-      - [Sparse Autoencoder]()
+      - [Sparse Autoencoder](./deep-learning/autoencoders/sparse-autoencoder.ipynb)
       - [Variational Autoencoder](./deep-learning/autoencoders/variational-autoencoder.md)
       - [Denoising Autoencoder]()
