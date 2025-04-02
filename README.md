@@ -16,7 +16,7 @@
         - [Random Forest]()
    2. Unsupervised Learning
       - Clustering
-        - [K-means]()
+        - [K-means](./machine-learning/unsupervised-learning/clustering/k-means.ipynb)
         - [Hierarchical]()
         - [Gaussian Mixture Models]()
         - [DBSCAN]()
