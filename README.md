@@ -12,7 +12,7 @@
       - Ensemble
         - Bagging
         - Boosting
-          - XGBoost
+          - [XGBoost](./machine-learning/supervised-learning/ensemble/XGBoost.ipynb)
         - Random Forest
    2. Unsupervised Learning
       - Clustering
@@ -22,7 +22,6 @@
         - DBSCAN
       - Dimensionality Reduction
         - [Principal Component Analysis](./machine-learning/unsupervised-learning/dimensionality-reduction/pca.ipynb)
-        - Kernel PCA
 
 2. Deep Learning
    1. Neural Networks
