@@ -4,7 +4,7 @@
         - [Linear Regression](./machine-learning/supervised-learning/regression/linear-regression.ipynb)
         - [Logistic Regression](./machine-learning/supervised-learning/regression/logistic-regression.ipynb)
         - [Regularisation](./machine-learning/supervised-learning/regression/regularisation.ipynb)
-        - Gaussian Process Regression
+        - [Gaussian Process Regression](./machine-learning/supervised-learning/regression/gaussian-process-regression.ipynb)
       - Naive Bayes
       - [Support Vector Machines](./machine-learning/supervised-learning/support-vector-machines.ipynb)
       - k-Nearest Neighbour
