@@ -7,7 +7,7 @@
         - [Gaussian Process Regression](./machine-learning/supervised-learning/regression/gaussian-process-regression.ipynb)
       - [Naive Bayes](./machine-learning/supervised-learning/naive-bayes.ipynb)
       - [Support Vector Machines](./machine-learning/supervised-learning/support-vector-machines.ipynb)
-      - k-Nearest Neighbour
+      - [k-Nearest Neighbour](./machine-learning/knn.ipynb)
       - [Decision Tree](./machine-learning/supervised-learning/decision-tree.ipynb)
       - Ensemble
         - Bagging
